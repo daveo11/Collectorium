@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Collectorium</string>
+    <string name="value">$%1$.2f</string>
+    <string name="mint">Mint</string>
+    <string name="near_mint">Near Mint</string>
+    <string name="excellent">Excellent</string>
+    <string name="very_good">Very Good</string>
+    <string name="good">GOod</string>
+    <string name="fair">Fair</string>
+    <string name="poor">Poor</string>
+
+    MINT,
+    NEAR_MINT,
+    EXCELLENT,
+    VERY_GOOD,
+    GOOD,
+    FAIR,
+    POOR
+</resources>
